@@ -103,3 +103,4 @@ RS.Heartbeat:Connect(function()
 end)
 
 queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/Orbit293/autoexec-lock-rivals/refs/heads/main/auto%20exec"))()')
+
