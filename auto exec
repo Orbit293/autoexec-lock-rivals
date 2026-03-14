@@ -102,4 +102,4 @@ RS.Heartbeat:Connect(function()
     if cc then cc:MimicRotation(CFrame.lookAt(t.camPos, t.pos).Rotation) end
 end)
 
-queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/dsadasdasdasasdasas/rivalsstuff/refs/heads/main/aimbot.lua"))()')
+queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/Orbit293/autoexec-lock-rivals/refs/heads/main/auto%20exec"))()')
